@@ -1,0 +1,19 @@
+VERSION="2.0.0"
+
+ACCOUNTS=[
+    "GCVTSONWUQRHXRTOXPZF2UH44CMEJJFAO65AIXVANVY55WXTQTR2VWNS"
+]
+
+[DOCUMENTATION]
+ORG_NAME="StellarOdoo"
+ORG_URL="https://www.stellarodoo.com"
+ORG_LOGO="https://stellarodoo.com/web/image/website/1/logo/StellarOdoo?unique=bf9fb3f"
+ORG_DESCRIPTION="Stellar Network Integration for Odoo"
+ORG_GITHUB="StellarOdoo"
+
+[[PRINCIPALS]]
+github="vvro"
+
+[[PRINCIPALS]]
+github="Doomskar"
+
